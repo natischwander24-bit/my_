@@ -1,13 +1,16 @@
 {
-  "name": "Meine App",
-  "short_name": "Meine App",
+  "name": "Winter Glow",
+  "short_name": "Winter Glow",
+  "description": "Skincare-Routinen und Treatments für den Winter",
+  "lang": "de",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#4f46e5",
+  "background_color": "#F5EFE6",
+  "theme_color": "#F5EFE6",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
